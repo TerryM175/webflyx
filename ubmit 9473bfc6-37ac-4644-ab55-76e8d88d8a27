@@ -1,0 +1,12 @@
+credential.https://github.com.helper=
+credential.https://github.com.helper=!/root/.local/bin/gh auth git-credential
+credential.https://gist.github.com.helper=
+credential.https://gist.github.com.helper=!/root/.local/bin/gh auth git-credential
+user.email=terzo18@gmail.com
+user.name=TerryM175
+init.defaultbranch=main
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+init.defaultbranch=main
